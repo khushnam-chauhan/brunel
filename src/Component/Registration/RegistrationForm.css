@@ -1,0 +1,71 @@
+
+.register-links{
+  margin-top: 10px;
+  font-size: 45px;
+  padding-right: 20px;
+  cursor: pointer;
+
+}
+
+.registration-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .registration-form h2 {
+    margin-top: 0;
+    font-size: 17px;
+    color: green;
+    font-family: cursive;
+    font-style: italic;
+  }
+  
+  .register-subhead{
+    font-size: 35px;
+    margin-bottom: 40px;
+  }
+  .registration-form input {
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+  }
+  
+  .registration-form .link {
+    margin-top: 30px;
+    display: block;
+    width: 100%;
+    padding: 18px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .registration-form .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  .registration-form .disabled-link {
+    margin-top: 30px;
+    display: block;
+    width: 100%;
+    padding: 18px;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: not-allowed;
+  }
+  
+  .link{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+  }

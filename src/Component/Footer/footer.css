@@ -1,0 +1,26 @@
+.footer{
+    height: 70px;
+    width: 97%;
+    background-color: rgb(247, 243, 236);
+    margin: 1.5rem;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.copyright{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.terms-conditions{
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    text-decoration: underline;
+    
+}
+.terms-conditions p:hover{
+    cursor: pointer;
+}
