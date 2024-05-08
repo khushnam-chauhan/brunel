@@ -1,7 +1,7 @@
 
 # Vite+react
-
-# brunel 
+## important - it's not mobile responsive so use desktop view
+### brunel 
 you can visit here - https://brunel-one.vercel.app/  for the demo
-# Dependencies-
+### Dependencies-
 react hooks, react-router-dom
